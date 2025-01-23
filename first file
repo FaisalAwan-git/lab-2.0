@@ -1,3 +1,5 @@
 Console.Writeline("my name is abdullah");
-Console.Writeline("my roll is 50");
+Console.Writeline("my roll is 50"); 2nd-semester-subjects
+Console.WriteLine("2nd semester:THQ, Stat, discrete structure, SCM, SDLC,OOP");
 Console.WriteLine("1 semester ISL, CALCALUS, CP, ITS,EHS,PHYSICS");
+ First-Semester
