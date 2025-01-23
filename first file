@@ -1,2 +1,3 @@
 Console.Writeline("my name is abdullah");
 Console.Writeline("my roll is 50");
+Console.WriteLine("FSC Subjects:English, urdu Islamiat Bio, Physics, Chemistry,THQ );
