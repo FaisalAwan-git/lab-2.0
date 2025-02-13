@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Name: faisal malik" << endl;
+    cout << "Roll Number: 24-ST-060" << endl;
+    cout << "Department: Software engineering technology" << endl;
+
+    return 0;
+}
